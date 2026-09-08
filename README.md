@@ -31,6 +31,9 @@ Receiver specifications:
 
 Using the formulas above, calculate the receiver sensitivity.
 
+<img width="1256" height="1600" alt="image" src="https://github.com/user-attachments/assets/82e60d9b-5904-4ba4-9c24-ad5d838cc46c" />
+
+
 ---
 
 ## Layout
@@ -58,6 +61,10 @@ Steps:
 2. Set attenuator to **20 dB**.  
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
+
+<img width="1600" height="785" alt="image" src="https://github.com/user-attachments/assets/59570a5c-928c-49f5-ab71-674ee384962c" />
+
+<img width="1600" height="780" alt="image" src="https://github.com/user-attachments/assets/9f8b485b-33a6-42b5-82f7-835246d8d893" />
 
 ---
 
